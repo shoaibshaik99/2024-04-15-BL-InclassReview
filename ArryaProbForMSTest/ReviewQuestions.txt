@@ -1,0 +1,3 @@
+﻿1) check if a file exist, then read data from file, else create new file and add data
+2) write regex for date format validations
+3) perform MS test on an array problem of your choice
